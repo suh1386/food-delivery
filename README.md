@@ -1,4 +1,7 @@
-CNA 테미플릿 
+CNA 템플릿 페이지
+
+<img width="780" alt="클라우드 네이티브 영역 지도" src="https://user-images.githubusercontent.com/76020462/102155432-e1ec4c00-3ebe-11eb-86cd-de420e8647f6.png">
+
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 # 예제 - 음식배달
